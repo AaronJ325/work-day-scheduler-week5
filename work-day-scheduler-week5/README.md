@@ -1,0 +1,1 @@
+This week's task was to use css and js to create a scheduler that would allow you to create tasks and delete them. Along with that you can move it form to do, in progress, in review, and into being done.
